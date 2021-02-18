@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label carnetj4_terminer is defined twice, at
+  File "game/carnetj4.rpy", line 36 and
+  File "game/carnetj5.rpy", line 36.
+
+Ren'Py Version: Ren'Py 7.4.2.1292
+Thu Feb 18 14:33:53 2021
